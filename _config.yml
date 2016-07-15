@@ -1,0 +1,14 @@
+layout_spectrum: 0.7171787
+typography_spectrum: 0.5205613
+color:
+  saturation: 0.9704612
+  lightness: 0.05680066
+  brandStrength: 0.5913403
+  rhythmicContrast: 0.3742895
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: The studman
